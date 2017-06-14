@@ -1,1 +1,1 @@
-# intall-wp
+# install-wp
